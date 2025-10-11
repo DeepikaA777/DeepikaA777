@@ -1,3 +1,4 @@
+<img width="1584" height="396" alt="Banner (1)" src="https://github.com/user-attachments/assets/21424a08-1784-4cff-8637-be3d54fc9b9b" />
 <!-- Profile Header -->
 <p align="center">
   <img src="https://github.com/DeepikaA777/DeepikaA777/blob/main/banner.gif" alt="Banner" width="100%" />
