@@ -22,7 +22,7 @@
 
 ---
 
-### 🎨 Design & Creative Tools:
+### 🎨 Design & Development Tools:
 - **UI/UX & Graphic:** Figma, Canva, Adobe Photoshop, Spline 3D, Framer, Sketch, Photopea  
 - **Development:** Java, Python, C++, HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap, Three.js  
 - **Others:** Zoho Books (Accounting Software), MS Office, SketchBook
