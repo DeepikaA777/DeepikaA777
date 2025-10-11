@@ -1,41 +1,73 @@
-# Hi👋 I'm Deepika A
+<!-- Profile Header -->
+<p align="center">
+  <img src="https://github.com/DeepikaA777/DeepikaA777/blob/main/banner.gif" alt="Banner" width="100%" />
+</p>
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/6ff87209-4711-472f-9f44-dc1901d909d5" />
+<h1 align="center">Hi 👋, I'm <span style="color:#ff66b2;">Deepika A</span></h1>
+<h3 align="center">🌸 Founder of <b>DyzinDev</b> | Final-year BCA Student | UI/UX & Full Stack Enthusiast 🌸</h3>
 
+---
 
-I'm a Final-year BCA student & a Founder of DyzinDev - passionate about blending design and development. I'm a Aspiring Full stack Developer.
-Freelancer specializing in UI/UX, Graphic Design, and Front-end Web Development, creating impactful visuals and responsive websites.
+### 💫 About Me:
+🎓 I'm a **Final-year BCA student** passionate about blending **design and development**.  
+💼 **Founder of DyzinDev**, where I bring creative ideas to life through UI/UX Design, Graphic Design, and Frontend Development.  
+🚀 Aspiring **Full Stack Developer** eager to build intuitive, modern, and impactful digital experiences.
 
-## 🛠 Teck Stack
-- **Design (UI/UX & Graphic):** Figma, Canva, Adobe Photoshop, Spline 3D, Framer, Sketch, Photopea.
-- **Development:** Java, Python, C++, Html, CSS, Javascript, React.js, Tailwind CSS, Bootstrap, Three.js.
-- **Others:** Zoho Books(Accounting Software), MS Office, SketchBook.
+---
 
-## 🚀 Actively freelancing in: 
-- Graphic Design (logos, posters, branding)
-- UI/UX Design (web & mobile app interfaces)
-- Front-end Development (responsive websites)
+### 🛠 Tech Stack:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,threejs,java,python,cpp,figma,canva,photoshop,framer,ai,xd,vscode,github&perline=9" />
+</p>
 
-## 🤝 Open to internships oppurtunities:
-- freelance projects
-- UI UX Design role
-- Graphic Design Role
-- Frontend development 
+---
 
-📩 Let’s connect and collaborate!
+### 🎨 Design & Creative Tools:
+- **UI/UX & Graphic:** Figma, Canva, Adobe Photoshop, Spline 3D, Framer, Sketch, Photopea  
+- **Development:** Java, Python, C++, HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap, Three.js  
+- **Others:** Zoho Books (Accounting Software), MS Office, SketchBook
 
-## 📞 Contact for Freelance Services @DyzinDev:
-- E-mail: dyzindev@gmail.com
-- or DM me in Instagram: @dyzindev
+---
 
-## 👀 Check out my portfolio:
-- Behance: https://www.behance.net/deepikaa16
-- Instagram: https://www.instagram.com/dyzindev/
+### 🚀 Actively Freelancing In:
+- 🎨 **Graphic Design:** logos, posters, branding  
+- 🖌 **UI/UX Design:** web & mobile app interfaces  
+- 💻 **Front-end Development:** responsive websites  
 
-- Thankyou!
+---
 
-###Warm Regards,
-- Deepika A
-- DyzinDev
-- Linkedin: https://www.linkedin.com/in/deepika-a-21754b302
+### 🤝 Open to Internship Opportunities:
+- 🎯 Freelance Projects  
+- 🖥️ UI/UX Design Roles  
+- 🎨 Graphic Design Roles  
+- 💻 Frontend Development  
 
+---
+
+### 📞 Contact for Freelance Services — @DyzinDev
+📧 **Email:** [dyzindev@gmail.com](mailto:dyzindev@gmail.com)  
+📸 **Instagram:** [@dyzindev](https://www.instagram.com/dyzindev/)  
+
+---
+
+### 🌐 Check Out My Work:
+🎨 [**Behance**](https://www.behance.net/deepikaa16)  
+📱 [**Instagram**](https://www.instagram.com/dyzindev/)  
+💼 [**LinkedIn**](https://www.linkedin.com/in/deepika-a-21754b302)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DeepikaA777&show_icons=true&theme=radical" alt="Deepika's GitHub stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepikaA777&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+</p>
+
+---
+
+### ✨ Warm Regards,  
+**Deepika A** 💜  
+👩‍💻 Founder — **DyzinDev**
+
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" alt="wave gif"/>
+</p>
