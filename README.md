@@ -10,7 +10,7 @@
 
 ### 💫 About Me:
 🎓 I'm a **Final-year BCA student** passionate about blending **design and development**.  
-💼 **Founder of DyzinDev**, where I bring creative ideas to life through UI/UX Design, Graphic Design, and Frontend Development.  
+💼 **Founder of DyzinDev**, where I bring creative ideas to life by providing Freelance Services on UI/UX Design, Graphic Design, and Frontend Development.  
 🚀 Aspiring **Full Stack Developer** eager to build intuitive, modern, and impactful digital experiences.
 
 ---
