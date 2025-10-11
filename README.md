@@ -18,14 +18,14 @@
 
 ### 🛠 Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,threejs,java,python,cpp,figma,photoshop,vscode,git,github&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,threejs,java,python,cpp,mysql,figma,photoshop,vscode,git,github&perline=9" />
 </p>
 
 ---
 
 ### 🎨 Design & Development Tools:
 - **UI/UX & Graphic:** Figma, Canva, Adobe Photoshop, Spline 3D, Framer, Sketch, Photopea  
-- **Development:** Java, Python, C++, HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap, Three.js  
+- **Development:** Java, Python, C++, HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap, Three.js, MySQL.
 - **Others:** Zoho Books (Accounting Software), MS Office, SketchBook
 
 ---
