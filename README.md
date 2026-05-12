@@ -1,4 +1,5 @@
 <img width="1584" height="396" alt="Banner (1)" src="https://github.com/user-attachments/assets/21424a08-1784-4cff-8637-be3d54fc9b9b" />
+
 <!-- Profile Header -->
 <p align="center">
   <img src="https://github.com/DeepikaA777/DeepikaA777/blob/main/banner.gif" alt="Banner" width="100%" />
@@ -25,7 +26,7 @@
 
 ### 🎨 Design & Development Tools:
 - **UI/UX & Graphic:** Figma, Canva, Adobe Photoshop, Spline 3D, Framer, Sketch, Photopea  
-- **Development:** Java, Python, C++, HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap, Three.js, MySQL.
+- **Development:** Java, Python, C++, HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap, Three.js, MySQL  
 - **Others:** Zoho Books (Accounting Software), MS Office, SketchBook
 
 ---
@@ -45,6 +46,11 @@
 
 ---
 
+### 🌐 My Portfolio Website:
+💜 **Explore My Portfolio:** [https://raspy-hat-568a.deepika20060208.workers.dev/](https://raspy-hat-568a.deepika20060208.workers.dev/)
+
+---
+
 ### 📞 Contact for Freelance Services — @DyzinDev
 📧 **Email:** [dyzindev@gmail.com](mailto:dyzindev@gmail.com)  
 📸 **Instagram:** [@dyzindev](https://www.instagram.com/dyzindev/)  
@@ -54,7 +60,8 @@
 ### 🌐 Check Out My Work:
 🎨 [**Behance**](https://www.behance.net/deepikaa16)  
 📱 [**Instagram**](https://www.instagram.com/dyzindev/)  
-💼 [**LinkedIn**](https://www.linkedin.com/in/deepika-a-21754b302)
+💼 [**LinkedIn**](https://www.linkedin.com/in/deepika-a-21754b302)  
+🌍 [**Portfolio Website**](https://raspy-hat-568a.deepika20060208.workers.dev/)
 
 ---
 
